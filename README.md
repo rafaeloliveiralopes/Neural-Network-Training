@@ -125,7 +125,7 @@ img_path = '/content/PetImages/Cat/1.jpg'
 print(predict_image(img_path))
 ```
 
-### Conclusão
+## Conclusão
 
 Este projeto demonstrou a eficácia do uso de Transfer Learning para resolver problemas de classificação de imagens, especificamente para distinguir entre gatos e cachorros. 
 Utilizando a arquitetura pré-treinada MobileNetV2, conseguimos aproveitar o aprendizado existente em redes neurais profundas para obter uma precisão de 89% no conjunto de teste, 
